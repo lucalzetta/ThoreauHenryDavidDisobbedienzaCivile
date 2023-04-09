@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookID" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Titolo</dc:title>
+    <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Nome Cognome</dc:creator>
+    <dc:language>it</dc:language>
+    <dc:subject>[la classificazione secondo il sistema Bisac]</dc:subject>
+    <dc:publisher>Liber Liber</dc:publisher>
+    <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">[Nome Cognome del traduttore]</dc:contributor>
+    <dc:type>text</dc:type>
+    <dc:format>application/epub+zip</dc:format>
+    <dc:identifier opf:scheme="ISBN">[inserire ISBN]</dc:identifier>
+    <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
+    <dc:date opf:event="1a edizione elettronica">2014-12-15</dc:date>
+    <dc:date opf:event="modification">2022-08-17</dc:date>
+    <meta content="1.9.10" name="Sigil version"/>
+    <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
+    <meta name="cover" content="copertina.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
+    <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
+    <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="Section0004.xhtml"/>
+    <itemref idref="Section0005.xhtml"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="Text/Section0001.xhtml"/>
+    <reference type="colophon" title="Colophon" href="Text/Section0002.xhtml"/>
+    <reference type="index" title="Indice" href="Text/Section0004.xhtml"/>
+    <reference type="acknowledgements" title="Riconoscimenti" href="Text/Section0003.xhtml"/>
+  </guide>
+</package>
