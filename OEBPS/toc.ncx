@@ -41,5 +41,43 @@
       </navLabel>
       <content src="Text/Section0005.xhtml"/>
     </navPoint>
+        <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml"/>
+    </navPoint>
+
+
   </navMap>
 </ncx>

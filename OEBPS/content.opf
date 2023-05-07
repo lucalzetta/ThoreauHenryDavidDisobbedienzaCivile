@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookID" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Titolo</dc:title>
-    <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Nome Cognome</dc:creator>
+    <dc:title>Disobbedienza civile</dc:title>
+    <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Thoreau Henry David</dc:creator>
     <dc:language>it</dc:language>
-    <dc:subject>[la classificazione secondo il sistema Bisac]</dc:subject>
+    <dc:subject>POL004000       SCIENZE POLITICHE / Libertà Politica e Sicurezza / Diritti civili]</dc:subject>
     <dc:publisher>Liber Liber</dc:publisher>
-    <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">[Nome Cognome del traduttore]</dc:contributor>
+    <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">Luca Alzetta</dc:contributor>
     <dc:type>text</dc:type>
     <dc:format>application/epub+zip</dc:format>
     <dc:identifier opf:scheme="ISBN">[inserire ISBN]</dc:identifier>
@@ -22,10 +22,16 @@
     <item id="e-text.png" href="Images/e-text.png" media-type="image/png"/>
     <item id="Style0001.css" href="Styles/Style0001.css" media-type="text/css"/>
     <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
     <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0004.xhtml" href="Text/Section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0005.xhtml" href="Text/Section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0006.xhtml" href="Text/Section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0007.xhtml" href="Text/Section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0008.xhtml" href="Text/Section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0009.xhtml" href="Text/Section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0010.xhtml" href="Text/Section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0011.xhtml" href="Text/Section0011.xhtml" media-type="application/xhtml+xml"/>
     <item id="x2_euro.png" href="Images/2_euro.png" media-type="image/png"/>
     <item id="copertina.jpg" href="Images/copertina.jpg" media-type="image/jpeg"/>
   </manifest>
@@ -35,6 +41,12 @@
     <itemref idref="Section0003.xhtml"/>
     <itemref idref="Section0004.xhtml"/>
     <itemref idref="Section0005.xhtml"/>
+    <itemref idref="Section0006.xhtml"/>
+    <itemref idref="Section0007.xhtml"/>
+    <itemref idref="Section0008.xhtml"/>
+    <itemref idref="Section0009.xhtml"/>
+    <itemref idref="Section0010.xhtml"/>
+    <itemref idref="Section0011.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Cover" href="Text/Section0001.xhtml"/>
