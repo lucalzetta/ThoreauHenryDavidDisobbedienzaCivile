@@ -37,45 +37,45 @@
     </navPoint>
     <navPoint id="navPoint-5" playOrder="5">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Prefazione</text>
       </navLabel>
       <content src="Text/Section0005.xhtml"/>
     </navPoint>
-        <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-6" playOrder="6">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Introduzione</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0006.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-7" playOrder="7">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Riconoscimenti</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0007.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Capitolo 1</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0008.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-9" playOrder="9">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Capitolo 2</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0009.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-10" playOrder="10">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Capitolo 3</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0010.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-11" playOrder="11">
       <navLabel>
-        <text>Qui il titolo di capitolo, o di sezione, ecc.</text>
+        <text>Note</text>
       </navLabel>
-      <content src="Text/Section0005.xhtml"/>
+      <content src="Text/Section0011.xhtml"/>
     </navPoint>
 
 

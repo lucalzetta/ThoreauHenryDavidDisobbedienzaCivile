@@ -13,7 +13,6 @@
     <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
     <dc:date opf:event="1a edizione elettronica">2014-12-15</dc:date>
     <dc:date opf:event="modification">2022-08-17</dc:date>
-    <meta content="1.9.10" name="Sigil version"/>
     <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <meta name="cover" content="copertina.jpg"/>
   </metadata>
