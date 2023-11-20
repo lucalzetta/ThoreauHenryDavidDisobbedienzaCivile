@@ -4,15 +4,16 @@
     <dc:title>Disobbedienza civile</dc:title>
     <dc:creator opf:file-as="Cognome, Nome" opf:role="aut">Thoreau Henry David</dc:creator>
     <dc:language>it</dc:language>
-    <dc:subject>POL004000       SCIENZE POLITICHE / Libertà Politica e Sicurezza / Diritti civili]</dc:subject>
+    <dc:subject>POL004000       SCIENZE POLITICHE / Libertà Politica e Sicurezza / Diritti civili</dc:subject>
     <dc:publisher>Liber Liber</dc:publisher>
     <dc:contributor opf:file-as="Cognome, Nome" opf:role="trl">Luca Alzetta</dc:contributor>
     <dc:type>text</dc:type>
     <dc:format>application/epub+zip</dc:format>
-    <dc:identifier opf:scheme="ISBN">[inserire ISBN]</dc:identifier>
+<!--    <dc:identifier opf:scheme="ISBN">25 NOVEMBRE 2023</dc:identifier>-->
+    <dc:identifier opf:scheme="ISBN">ISBN: 56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <dc:rights>questo testo è distribuito con la licenza specificata al seguente indirizzo Internet: https://www.liberliber.it/online/opere/libri/licenze/</dc:rights>
     <dc:date opf:event="1a edizione elettronica">2014-12-15</dc:date>
-    <dc:date opf:event="modification">2022-08-17</dc:date>
+    <dc:date opf:event="modification">2023-11-25</dc:date>
     <dc:identifier id="BookID" opf:scheme="UUID">urn:uuid:56919d9e-8b0d-407f-96fe-0064ee9fdea7</dc:identifier>
     <meta name="cover" content="copertina.jpg"/>
   </metadata>
